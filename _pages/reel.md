@@ -1,5 +1,5 @@
 ---
-permalink: /reel/
+permalink: /
 title: "Editing Reel"
 ---
 

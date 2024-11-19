@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Austin Jones, Film and Media Editor
 #twitter_username: username
 #github_username: username
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: false
 
 # Build settings
@@ -90,17 +90,17 @@ footer:
     #   url: "https://instagram.com/"
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: true
+#       share: true
+#       related: true
   # _pages
   - scope:
       path: "_pages"

@@ -9,17 +9,4 @@ layout: home
 author_profile: true
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="refresh" content="0;/austin-test3/reel/index.html">
-
-
-    <title>Redirecting...</title>
-</head>
-<body>
-    <p>If you are not redirected, <a href="{{ site.baseurl }}/reel/index.html">click here</a>.</p>
-</body>
-</html>
+Welcome to my page! You can see my editing reel, portfolio, and find out a little about me.

@@ -14,7 +14,9 @@ author_profile: true
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="refresh" content="0;url{{ site.baseurl }}/reel/index.html">
+    <meta http-equiv="refresh" content="0;/austin-test3/reel/index.html">
+
+
     <title>Redirecting...</title>
 </head>
 <body>
